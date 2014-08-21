@@ -53,12 +53,4 @@
 			form.style.display = iframe.style.display = 'none';
 		}
 	};
-	
-	
-	typo({
-		formURL: 'https://docs.google.com/forms/d/1lCplFvSZfwDU_zr4WsK0fSCo5ktBOnox0od_BPx40xk/formResponse',
-		selectionName: 'entry.1972481987',
-		commentName: 'entry.1777335671',
-		pageName: 'entry.339184258'
-	});
 })( window );
