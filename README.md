@@ -12,7 +12,7 @@ Simple typo notifications system for your website powered by google forms. Tell 
 
 ```js
 typo({
-  formURL: FORM_ACTION_URL,
+	formURL: FORM_ACTION_URL,
 	selectionName: NAME_OF_SELECTION_INPUT,
 	commentName: NAME_OF_COMMENT_INPUT,
 	pageName: NAME_OF_URL_INPUT
