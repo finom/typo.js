@@ -2,7 +2,7 @@ typo.js
 =======
 Simple typo notifications system for your website powered by google forms. Tell user press Ctrl+Enter if they noticed typo.
 
-[Live example](http://jsbin.com/mucanu/2/edit)
+[Live example](http://jsbin.com/mucanu/3/)
 
 ## Usage
 1. Create google form with 3 fields: Typo selection, Typo content, URL ([example](https://docs.google.com/forms/d/1sQhv81wN65__7H4quwhDbecvtUxzAGZ-lMmlwF9MKcc/viewform))
