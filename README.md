@@ -9,12 +9,15 @@ Simple typo notifications system for your website powered by google forms. Tell 
 2. Inspect created form using web inspector. You need form action and fields names.
 3. Insert typo.js script before ``</body>``
 4. Run ``typo`` function below:
+
+```js
 typo({
   formURL: FORM_ACTION_URL,
 	selectionName: NAME_OF_SELECTION_INPUT,
 	commentName: NAME_OF_COMMENT_INPUT,
 	pageName: NAME_OF_URL_INPUT
 });
+```
 
 Example:
 ```js
