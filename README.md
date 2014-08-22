@@ -4,6 +4,8 @@ Simple typo notifications system for your website powered by google forms. Tell 
 
 [Live example](http://jsbin.com/mucanu/3/)
 
+![Screenshot of example](http://i.imgur.com/39DM2GS.png)
+
 ## Usage
 1. Create google form with 3 fields: Typo selection, Typo content, URL ([example](https://docs.google.com/forms/d/1sQhv81wN65__7H4quwhDbecvtUxzAGZ-lMmlwF9MKcc/viewform))
 2. Inspect created form using web inspector. You need form action and fields names.
