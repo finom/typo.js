@@ -1,6 +1,6 @@
 typo.js
 =======
-Simple typo notifications system for your website powered by google forms, ``confirm`` and ``alert`` :). Tell user press Ctrl+Enter if they noticed typo.
+Simple typo notifications system for your website powered by google forms, ``confirm`` and ``alert`` :). Tell user press Ctrl+Enter if they noticed a typo.
 
 [Live example](http://jsbin.com/mucanu/3/)
 
