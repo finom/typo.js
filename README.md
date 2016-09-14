@@ -1,4 +1,4 @@
-typo.js
+typo.js [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 =======
 Simple typo notifications system for your website powered by google forms, ``confirm`` and ``alert`` :). Tell user press Ctrl+Enter if they noticed a typo.
 
